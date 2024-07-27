@@ -1,0 +1,206 @@
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "source": { "id": "cnn", "name"  : "CNN" },
+      "author": "Oren Liebermann, Haley Britzky, Natasha Bertrand, Kevin Liptak, Alex Marquardt, MJ Lee, Jennifer Hansler",
+      "title": "US and UK carry out strikes against Iran-backed Houthis in Yemen - CNN",
+      "description": "The US and UK militaries launched strikes against multiple Houthi targets in Houthi-controlled areas of Yemen on Thursday, marking a significant response after the Biden administration and its allies warned that the Iran-backed militant group would bear the c…",
+      "url": "https://www.cnn.com/2024/01/11/politics/us-strikes-houthis-yemen/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/240111192051-01-us-strike-yemen-011124-still.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-01-12T08:05:00Z",
+      "content": "The US and UK militaries launched strikes against multiple Houthi targets in Houthi-controlled areas of Yemen on Thursday, marking a significant response after the Biden administration and its allies… [+11295 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Laura He",
+      "title": "China’s exports slump for the first time in seven years - CNN",
+      "description": "China’s full-year exports fell for the first time since 2016 as global demand slowed.",
+      "url": "https://www.cnn.com/2024/01/12/business/china-exports-drop-intl-hnk/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/240111231342-china-cargo-ship-12062023.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-01-12T06:49:00Z",
+      "content": "Editors Note: Sign up for CNNs Meanwhile in China newsletter, which explores what you need to know about the countrys rise and how it impacts the world.\r\nChinas full-year exports fell for the first t… [+2543 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Inside the NBA Debates Celtics Benching Starters for Entire 2nd Half vs. Bucks - Bleacher Report",
+      "description": "Inside the NBA crew Charles Barkley, Kenny Smith, and Shaq debate if the Boston Celtics should have pulled their starters to start the 3rd quarter and entire...",
+      "url": "https://www.youtube.com/watch?v=WTWE0OR6Q9c",
+      "urlToImage": "https://i.ytimg.com/vi/WTWE0OR6Q9c/maxresdefault.jpg",
+      "publishedAt": "2024-01-12T06:16:19Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Navy helicopter crashes into California waters with six inside - CBS 8 San Diego",
+      "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "url": "https://www.youtube.com/watch?v=RbBRmpkyOzg",
+      "urlToImage": null,
+      "publishedAt": "2024-01-12T06:07:22Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "Deadline" },
+      "author": "Bruce Haring",
+      "title": "Simu Liu Promises No Taylor Swift Jokes While Hosting People’s Choice Awards - Deadline",
+      "description": "You don’t tug on Superman’s cape. And you don’t mess around with Jim OR Taylor Swift. After being announced as the host of this year’s People’s Choice Awards, the Shan…",
+      "url": "http://deadline.com/2024/01/simu-liu-promises-no-taylor-swift-jokes-peoples-choice-awards-1235721896/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2023/10/GettyImages-1730808724-e1705034106171.jpg?w=1024",
+      "publishedAt": "2024-01-12T04:38:00Z",
+      "content": "You don’t tug on Superman’s cape. And you don’t mess around with Jim OR Taylor Swift.\r\nAfter being announced as the host of this year’s People’s Choice Awards, the Shang-Chi star promised that he wil… [+754 chars]"
+    },
+    {
+      "source": { "id": null, "name": "WDIV ClickOnDetroit" },
+      "author": "Mara MacDonald, Brandon Carr",
+      "title": "Here are 4 keys to watch for ahead of Metro Detroit's first snowstorm this winter - WDIV ClickOnDetroit",
+      "description": "With our ever-changing weather conditions, over the next 48 hours, there are four key things to watch out for.",
+      "url": "https://www.clickondetroit.com/news/local/2024/01/12/here-are-4-keys-to-watch-for-ahead-of-metro-detroits-first-snowstorm-this-winter/",
+      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/01-12-2024/t_37621edaa47843fc8cc0b8bbf842de95_name_image.jpg?_a=ATAPphC0",
+      "publishedAt": "2024-01-12T04:17:13Z",
+      "content": "With our ever-changing weather conditions, over the next 48 hours, there are four key things to watch out for.\r\nIn many ways, Oakland County is going to be the bullseye for the winter snowstorm, espe… [+1543 chars]"
+    },
+    {
+      "source": { "id": null, "name": "WCVB Boston" },
+      "author": "Russ Reed",
+      "title": "Patriots parting ways with coach Bill Belichick after 24 years - WCVB Boston",
+      "description": "\"Robert and I, after a series of discussions, have mutually agreed to part ways,\" Belichick said.",
+      "url": "https://www.wcvb.com/article/bill-belichick-coach-new-england-patriots-parting-ways/46261878",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/belichick-kraft-getty-images-65a0262349a33.jpg?crop=1.00xw:0.785xh;0,0&resize=1200:*",
+      "publishedAt": "2024-01-12T04:05:00Z",
+      "content": "FOXBOROUGH, Mass. —The New England Patriots parted ways with head coach Bill Belichick \"amicably\" on Thursday after more than two decades and six Super Bowl titles, which is the most won by a single … [+7634 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Page Six" },
+      "author": "Sara Whitman",
+      "title": "Jo Koy says he is 'just supporting' Taylor Swift following backlash over his Golden Globes 2024 joke - Page Six",
+      "description": "“What hurts the most is me just supporting Taylor, I support her, I love her work,” the comedian claimed in a new interview.",
+      "url": "https://pagesix.com/2024/01/11/entertainment/jo-koy-says-he-is-just-supporting-taylor-swift-following-backlash-over-his-golden-globes-2024-joke/",
+      "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2024/01/74736322.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2024-01-12T03:54:00Z",
+      "content": "Jo Koy claimed he’s a Swiftie days after he made fun of Taylor Swift during the 2024 Golden Globes.\r\n“I didnt understand the Taylor [Swift] tiff,” he told the Los Angeles Times in an interview publis… [+2588 chars]"
+    },
+    {
+      "source": { "id": "the-hill", "name": "The Hill" },
+      "author": "Sarah Polus",
+      "title": "House Republican wanted Hunter Biden to testify when Democrats offered: ‘I would have raised my hand’ - The Hill",
+      "description": "Rep. Andy Biggs (R-Ariz.) said he would have requested to hear Hunter Biden speak had he been in the room at the time Democrats made the offer during a Wednesday hearing. The son of President Biden made a surprise appearance at a markup of the House Oversight…",
+      "url": "https://thehill.com/homenews/4404449-house-republican-wanted-hunter-biden-testify-when-democrats-offered/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/10/biggsandy_092823gn01_w.jpg?w=1280",
+      "publishedAt": "2024-01-12T03:42:00Z",
+      "content": "Skip to content\r\nRep. Andy Biggs (R-Ariz.) said he would have requested to hear Hunter Biden speak had he been in the room at the time Democrats made the offer during a Wednesday hearing.\r\nThe son of… [+1388 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CBS Sports" },
+      "author": "",
+      "title": "Warriors trade deadline targets: Five players who could help Stephen Curry turn around disappointing season - CBS Sports",
+      "description": "Golden State will almost certainly make a move before the Feb. 8 deadline",
+      "url": "https://www.cbssports.com/nba/news/warriors-trade-deadline-targets-five-players-who-could-help-stephen-curry-turn-around-disappointing-season/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/01/12/7f3a892e-cbd0-4a81-a375-71f0c66f4d11/thumbnail/1200x675/51576bf969c73bab6dd40154f3f4f37a/011124-dejountemurray.jpg",
+      "publishedAt": "2024-01-12T03:13:06Z",
+      "content": "Perhaps the NBA team most desperate for help at the trade deadline is the Golden State Warriors, who have signaled the need for a change both on the record and through leaks to various outlets. It wi… [+6359 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Nbcsportsbayarea.com" },
+      "author": "Jordan Elliott",
+      "title": "How NFL prognosticators view 49ers' Super Bowl title chances - Yahoo Sports",
+      "description": "Experts offer their opinions about the 49ers' chances of winning Super Bowl LVIII.",
+      "url": "https://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/experts-predictions-nfc-afc-super-bowl/1690798/?partner=yahoo",
+      "urlToImage": "https://media.zenfs.com/en/csnbayarea.com/4fc9855775853e3a962e988f955dfb69",
+      "publishedAt": "2024-01-12T02:59:00Z",
+      "content": "How NFL prognosticators view 49ers' Super Bowl title chances originally appeared on NBC Sports Bay Area\r\nThe 49ers are three wins away from capturing the franchise's sixth Lombardi Trophy.\r\nThe NFC's… [+5305 chars]"
+    },
+    {
+      "source": { "id": null, "name": "KOB" },
+      "author": "Christina Rodriguez",
+      "title": "T. rex's older cousin unearthed in New Mexico - KOB 4",
+      "description": "A fossil found in southwestern New Mexico is part of the skull of a new species of Tyrannosaurus rex – dubbed Tyrannosaurus mcraensi.",
+      "url": "https://www.kob.com/new-mexico/t-rexs-older-cousin-unearthed-in-new-mexico/",
+      "urlToImage": "https://www.kob.com/wp-content/uploads/2024/01/T-REX-COUSIN.jpg",
+      "publishedAt": "2024-01-12T02:50:15Z",
+      "content": "ALBUQUERQUE, N.M. New Mexico is home to a new dinosaur species. Not only that, but the discovery is changing the timeline of when dinosaurs were walking around North America. \r\n“This is a discovery l… [+1904 chars]"
+    },
+    {
+      "source": { "id": "cbs-news", "name": "CBS News" },
+      "author": "Graham Kates, Katrina Kaufman",
+      "title": "Trump makes closing argument on final day of New York fraud trial, disregarding judge's restrictions - CBS News",
+      "description": "Former President Donald Trump disregarded limits​ imposed by the judge overseeing his civil fraud trial in New York and addressed the court during closing arguments.",
+      "url": "https://www.cbsnews.com/news/trump-attends-closing-arguments-new-york-fraud-trial/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/01/11/c97a4695-029b-40e8-bcc4-39772ee7fb1c/thumbnail/1200x630/ea7a2a7d34712809cb62929d5cc67f38/gettyimages-1917511648.jpg?v=2194e1912ab0b51d957839e2d5977664",
+      "publishedAt": "2024-01-12T02:45:00Z",
+      "content": "Former President Donald Trump disregarded restrictions imposed by the judge overseeing his civil fraud trial in New York and addressed the court during closing arguments on Thursday, raging against t… [+12381 chars]"
+    },
+    {
+      "source": { "id": "fox-news", "name": "Fox News" },
+      "author": "Hannah Grossman",
+      "title": "Harvard sued for violating Jewish students' civil rights, allowing 'antisemitism cancer' to grow on campus - Fox News",
+      "description": "Harvard University was sued by Kasowitz Benson Torres for allegedly violating Jewish students' civil rights by allowing 'antisemitism cancer' to metastasize on campus.",
+      "url": "https://www.foxnews.com/media/harvard-sued-violating-jewish-students-civil-rights-allowing-antisemitism-cancer-grow-campus",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/01/Harvard-Sued-.jpg",
+      "publishedAt": "2024-01-12T02:31:00Z",
+      "content": "Harvard University is being sued by students for what they claim is an \"antisemitism cancer\" growing on campus, accusing the institution of \"hir[ing] professors who support anti-Jewish violence\" and … [+3597 chars]"
+    },
+    {
+      "source": { "id": "abc-news", "name": "ABC News" },
+      "author": "JON GAMBRELL Associated Press",
+      "title": "Iran's navy seizes oil tanker in Gulf of Oman that was at the center of a major US-Iran crisis - ABC News",
+      "description": "Iran’s navy has seized an oil tanker in the Gulf of Oman that once was at the center of a major crisis between Tehran and Washington, a seizure that further escalates tensions in the Mideast waterways",
+      "url": "https://abcnews.go.com/Business/wireStory/ship-gulf-oman-boarded-unauthorized-people-tensions-high-106284511",
+      "urlToImage": "https://i.abcnewsfe.com/a/02e00065-8e5f-4e17-8875-cd9e946710bf/wirestory_3a906e909be2ce63c87c1b208ed05baa_16x9.jpg?w=1600",
+      "publishedAt": "2024-01-12T02:30:34Z",
+      "content": "DUBAI, United Arab Emirates -- Iran's navy captured an oil tanker Thursday in the Gulf of Oman that only months earlier had seen its cargo of Iranian oil seized by the United States over sanctions li… [+5923 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Selling part of Tesla fleet is a 'black eye for Hertz', says Wedbush's Dan Ives - CNBC Television",
+      "description": "Hosted by Brian Sullivan, “Last Call” is a fast-paced, entertaining business show that explores the intersection of money, culture and policy. Tune in Monday...",
+      "url": "https://www.youtube.com/watch?v=0zieOvBt1BQ",
+      "urlToImage": "https://i.ytimg.com/vi/0zieOvBt1BQ/maxresdefault.jpg",
+      "publishedAt": "2024-01-12T01:56:12Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "2nd avalanche reported at Palisades Tahoe Resort - KCRA 3",
+      "description": "A day after an avalanche left one man dead and another three people caught in the snow, Palisades Tahoe Resort said a second avalanche happened Thursday.  Th...",
+      "url": "https://www.youtube.com/watch?v=xut3XKb4vhY",
+      "urlToImage": "https://i.ytimg.com/vi/xut3XKb4vhY/maxresdefault.jpg",
+      "publishedAt": "2024-01-12T01:20:49Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "New York Post" },
+      "author": "Jack Morphet, Megan Palin",
+      "title": "Trump prosecutor Nathan Wade steps out armed with handgun after bombshell Fani Willis affair allegations — and didn’t deny tryst - New York Post ",
+      "description": "Nathan Wade, the special prosecutor leading the election interference case against Donald Trump in Georgia, did not deny having an affair with his boss, Fani Willis.",
+      "url": "https://nypost.com/2024/01/11/news/trump-prosecutor-nathan-wade-steps-out-after-bombshell-fani-willis-affair-allegations-and-didnt-deny-tryst/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/01/74724358-1.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2024-01-12T01:14:00Z",
+      "content": "Nathan Wade, the special prosecutor leading the election interference case against Donald Trump in Georgia, did not deny having an affair with his boss, Fani Willis when he was spotted Thursday for t… [+5268 chars]"
+    },
+    {
+      "source": { "id": "the-verge", "name": "The Verge" },
+      "author": "Amrita Khalid",
+      "title": "The Peregrine lunar lander has another 48 hours left in space - The Verge",
+      "description": "NASA reports that four of its science instruments aboard the ship are gathering data. The maker of Peregrine reported that the spacecraft has another 48 hours of fuel left, beating earlier estimates.",
+      "url": "https://www.theverge.com/2024/1/11/24035242/astrobotic-peregrine-lunar-lander-nasa-data-payloads",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/xzh0DafbdexXWIv9e3j2cfm340s=/0x0:1410x784/1200x628/filters:focal(705x392:706x393)/cdn.vox-cdn.com/uploads/chorus_asset/file/25220566/Screen_Shot_2024_01_11_at_4.05.51_PM.png",
+      "publishedAt": "2024-01-12T00:55:00Z",
+      "content": "The Peregrine lunar lander didnt land, but its still collecting data\r\nThe Peregrine lunar lander didnt land, but its still collecting data\r\n / The spacecraft has about 48 hours of propellant remainin… [+2119 chars]"
+    },
+    {
+      "source": { "id": "fox-news", "name": "Fox News" },
+      "author": "Lindsay Kornick",
+      "title": "Christian rappers speak out against Lil Nas X's 'J Christ' single preview: 'Flat-out mocking Christ' - Fox News",
+      "description": "Christian rappers Holy Gabbana and Bryson Gray spoke to Fox News Digital about Lil Nas X’s controversial preview for his upcoming single titled \"J Christ.\"",
+      "url": "https://www.foxnews.com/media/christian-rappers-speak-against-lil-nas-xs-j-christ-single-preview-flat-out-mocking-christ",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/01/42f0096b-LIL-NAS-X-BRYSON-GRAY.jpg",
+      "publishedAt": "2024-01-12T00:00:00Z",
+      "content": "Lil Nas Xs upcoming single \"J Christ\" is already causing an uproar among Christian rappers before its even released.\r\nOn Monday, the rapper dropped an image preview for the song that features him as … [+4636 chars]"
+    }
+  ]
+}
